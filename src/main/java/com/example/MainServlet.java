@@ -29,7 +29,7 @@ public class MainServlet extends HttpServlet {
         out.println("</style>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h1>This is assignment number 3 of <span class='highlight'>DevOps</span>!</h1>");
+        out.println("<h1>This is assignment number 4 of <span class='highlight'>DevOps</span>!</h1>");
         out.println("<h1>Hello, <span class='highlight'>" + name + "</span>!</h1>");
         out.println("</body>");
         out.println("</html>");
